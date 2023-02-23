@@ -1,0 +1,8 @@
+banana			tropical
+lime			citrus
+mango			tropical
+blueberry		berry
+orange			citrus
+peach			stone
+nectarine		stone
+strawberry		berry
